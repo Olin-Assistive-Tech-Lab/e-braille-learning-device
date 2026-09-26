@@ -1,3 +1,6 @@
 [submodule "e-braille-learning-device-hardware"]
 	path = e-braille-learning-device-hardware
 	url = git@github.com:Olin-Assistive-Tech-Lab/e-braille-learning-device-hardware.git
+[submodule "e-braille-learning-device-firmware"]
+	path = e-braille-learning-device-firmware
+	url = git@github.com:Olin-Assistive-Tech-Lab/e-braille-learning-device-firmware.git
